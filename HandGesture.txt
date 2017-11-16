@@ -1,30 +1,3 @@
-handgesttest.cpp
-DETAILS
-ACTIVITY
-handgesttest.cpp
-Sharing Info
-
-General Info
-Type
-C++
-Size
-13 KB (12,964 bytes)
-Storage used
-0 bytesOwned by someone else
-Owner
-Ravindra Singh Rathor
-Modified
-Feb 20, 2016 by
-Opened
-2:47 AM by me
-Created
-May 22, 2015
-Description
-No description
-Download permissions
-Viewers can download
-Owned by me selected. All selections cleared All selections cleared All selections cleared All selections cleared All selections cleared All selections cleared
-
 #include<iostream>
 #include<opencv2\highgui\highgui.hpp>
 #include<opencv2\imgproc\imgproc.hpp>
